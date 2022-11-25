@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../../Downloads/possiblebird.png</file>
+        <file>../../../Downloads/background3.jpg</file>
+        <file>../../../Downloads/background2.png</file>
+        <file>../../../Downloads/background.png</file>
+        <file>../../Desktop/background1.1.png</file>
+        <file>../../Desktop/background1.png</file>
+        <file>../../Desktop/background2.2.png</file>
+        <file>../../../Downloads/background100.png</file>
+        <file>images/315272049_454336400081540_3041457456825348632_n.png</file>
+        <file>images/background5.png</file>
+        <file>images/background100.png</file>
+        <file>images/pillardown.png</file>
+        <file>images/pillarup.png</file>
+    </qresource>
+</RCC>
